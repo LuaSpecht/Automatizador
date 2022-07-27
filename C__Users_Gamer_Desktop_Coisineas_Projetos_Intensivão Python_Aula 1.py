@@ -4,7 +4,7 @@
 # In[35]:
 
 
-#!pip install pyautogui
+!pip install pyautogui
 
 
 # In[36]:
